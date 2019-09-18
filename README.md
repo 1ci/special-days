@@ -31,19 +31,12 @@ Thanks to anyone who provides any form of feedback - positive/negative. This pro
 * https://hellclan.co.uk/threads/38191/
 
 ## Development
-If you would like to contribute, you can hit me or Nomy up on Steam:
+If you would like to contribute, you can hit me up on Steam:
 
 * ici - http://steamcommunity.com/id/1ci/
-* nomy - http://steamcommunity.com/id/n0my/
 
 ## Current plans
 The current version of the plugin that is running on }HeLL{ is quite outdated. My plan is to clean up the source and apply good software engineering practices I have learned throughout the years. I have decided to make the project open-source in hope to get more people from the community into programming. Thus I provide you guys with an API/wrapper which makes developing new special days much easier. This API is designed to simplify some of the tedious work one has to go through when creating a SD and also keeps things tidy and organized. Having said that, I will try to address some of the issues discussed in the negative feedback threads. I will try to add an auto updater and finally - port all the old games and potentially add some of the newly suggested so that you see how they're made.
 
-## Work in progress
-I am still a student so you would have to bear with me here. I try my best to work on side projects whenever I can and feel like. Don't give me a hard time please 😄 Thank you ❤️
-
 ## How I write & compile my SourcePawn scripts
 I use [Notepad++ 32-bit](https://notepad-plus-plus.org/) and [these](https://hostr.co/Uj61H7Pgw9TZ) handy helpers.
-
-## Just sketching out ideas here
-* Will stick to GitLab's Issues and Milestones system from now on.
